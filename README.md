@@ -13,7 +13,7 @@ A simple Scholarship Registration Form built using HTML.
 - HTML5
 
 ## Live Website
-https://pragathishs02-commits.github.io/Pragathishs02-Scholarship-Registeration-form/
+https://pragathishs02-commits.github.io/Pragathish-Scholarship-form/
 
 ## Author
 Pragathish
